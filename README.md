@@ -1,1 +1,3 @@
-# Information-Retrieval-
+# Information-Retrieval(IR)
+
+Examination of the design, implementation, and evaluation of information retrieval systems. The focus is on the underlying retrieval models, algorithms, and system implementations. Also examined is how an effective information search and retrieval is interrelated with the organization and description of information to be retrieved. Topics include: automatic indexing; thesaurus generation; Boolean, vector-space, and probabilistic models; clustering and classification; information filtering; distributed IR on the WWW; intelligent information agents; IR system evaluation; information visualization; and natural language processing in IR. 
